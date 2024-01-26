@@ -15,3 +15,10 @@ Dataset preparation
 
 3.  Extract the frames from the video.
 4.  Extract the WAV file from the video
+
+The case of model
+
+1. IVA : all elements, includnig a single frame, T frames, and audio
+2. IV : single frame and T frames without audio
+3. IA : single frame and its corresponding audio
+4. VA : T frames and its corresponding audio
