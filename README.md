@@ -1,4 +1,4 @@
----Updating now---
+--- Now Updating ---
 
 This repository is the implementation of "Audio-visual Action Recognition using Transformer Fusion Network". 
 This code is based on the GitHub repository of the "Swin Transformer" paper.
